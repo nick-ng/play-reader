@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Bernardo",
+      "voice": "Joey",
+      "voiceEngine": "streamlabs"
+    },
+    {
+      "name": "Francisco",
+      "voice": "Jack",
+      "voiceEngine": "cereproc"
+    },
+    {
+      "name": "Horatio",
+      "voice": "Russell",
+      "voiceEngine": "streamlabs"
+    },
+    {
+      "name": "Marcellus",
+      "voice": "Giles",
+      "voiceEngine": "cereproc"
+    },
+    {
+      "name": "Claudius",
+      "voice": "Stuart",
+      "voiceEngine": "cereproc"
+    },
+    {
+      "name": "Cornelius",
+      "voice": "Adam",
+      "voiceEngine": "cereproc"
+    },
+    {
+      "name": "Laertes",
+      "voice": "Geraint",
+      "voiceEngine": "streamlabs"
+    },
+    {
+      "name": "Polonius",
+      "voice": "5-3-1",
+      "voiceEngine": "oddcast"
+    },
+    {
+      "name": "Hamlet",
+      "voice": "Brian",
+      "voiceEngine": "streamlabs"
+    },
+    {
+      "name": "Gertrude",
+      "voice": "Kendra",
+      "voiceEngine": "streamlabs"
+    },
+    {
+      "name": "Ophelia",
+      "voice": "Kimberly",
+      "voiceEngine": "streamlabs"
+    },
+    {
+      "name": "Father's Ghost",
+      "voice": "5-4-1",
+      "voiceEngine": "oddcast"
+    },
+    {
+      "name": "All",
+      "voice": "Russell",
+      "voiceEngine": "streamlabs"
+    }
+  ],
+  "characterLineStart": "    ",
+  "characterLineSplit": ". ",
+  "ignoreStart": ["Enter", "Exit", "Exeunt", "Ghost", "["],
+  "lineSplit": "\n\n",
+  "files": [
+    "hamlet-1-1.txt",
+    "hamlet-1-2.txt",
+    "hamlet-1-3.txt",
+    "hamlet-1-4.txt",
+    "hamlet-1-5.txt"
+  ]
+}

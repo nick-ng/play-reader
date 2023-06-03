@@ -1,0 +1,10 @@
+voice-engines.ts
+ffmpeg.exe
+*.mp3
+*.wav
+*.txt
+
+
+
+/audio
+/audio/**.*
